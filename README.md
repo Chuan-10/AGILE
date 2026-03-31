@@ -10,13 +10,13 @@
   <a href="https://arxiv.org/pdf/2602.04672"><img src="https://img.shields.io/badge/Paper-PDF-green?style=for-the-badge" alt="Paper"></a>
 </p>
 
-[Jin-Chuan Shi](https://chuan-10.github.io/)<sup>1\*</sup>, Binhong Ye<sup>1\*</sup>, Tao Liu<sup>1</sup>, Junzhe He<sup>1</sup>, Yangjinhui Xu<sup>1</sup>, Xiaoyang Liu<sup>1</sup>, Zeju Li<sup>1</sup>, [Hao Chen](https://stan-haochen.github.io/)<sup>1</sup>, [Chunhua Shen](https://cshen.github.io/)<sup>1,2</sup>
+[Jin-Chuan Shi](https://chuan-10.github.io/)<sup>1\*</sup>, Binhong Ye<sup>1\*</sup>, Tao Liu<sup>1</sup>, Xiaoyang Liu<sup>1</sup>, Yangjinhui Xu<sup>1</sup>, Junzhe He<sup>1</sup>, Zeju Li<sup>1</sup>, [Hao Chen](https://stan-haochen.github.io/)<sup>1</sup>, [Chunhua Shen](https://cshen.github.io/)<sup>1,2</sup>
 
 <sup>1</sup>State Key Lab of CAD & CG, Zhejiang University &nbsp; <sup>2</sup>Zhejiang University of Technology
 
 <sup>\*</sup>Equal contribution
 
-**Conditionally Accepted to ACM SIGGRAPH 2026**
+**ACM SIGGRAPH 2026, Conference Track**
 
 <img src="assets/teaser.png" width="100%">
 
@@ -24,9 +24,9 @@
 
 ## News
 
-- **[2026.03]** AGILE is conditionally accepted to **ACM SIGGRAPH 2026**!
+- **[2026.03]** AGILE is conditionally accepted to **ACM SIGGRAPH 2026** (Conference Track)!
 - **[2026.03]** Project page and paper released.
-- **[Coming in May 2026]** Code will be open-sourced. Stay tuned!
+- **[Coming Soon]** Code will be released incrementally, with the full codebase available by June 2026. Stay tuned!
 
 ## Abstract
 
@@ -43,7 +43,7 @@ If you find this work useful, please consider citing:
 ```bibtex
 @article{shi2026agile,
   title={AGILE: Hand-Object Interaction Reconstruction from Video via Agentic Generation},
-  author={Shi, Jin-Chuan and Ye, Binhong and Liu, Tao and He, Junzhe and Xu, Yangjinhui and Liu, Xiaoyang and Li, Zeju and Chen, Hao and Shen, Chunhua},
+  author={Shi, Jin-Chuan and Ye, Binhong and Liu, Tao and Liu, Xiaoyang and Xu, Yangjinhui and He, Junzhe and Li, Zeju and Chen, Hao and Shen, Chunhua},
   journal={arXiv preprint arXiv:2602.04672},
   year={2026}
 }

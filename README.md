@@ -26,7 +26,7 @@
 
 - **[2026.03]** AGILE is conditionally accepted to **ACM SIGGRAPH 2026** (Conference Track)!
 - **[2026.03]** Project page and paper released.
-- **[Coming Soon]** Code will be released incrementally, with the full codebase available by June 2026. Stay tuned!
+- **[Coming Soon]** Code will be released incrementally, with the full codebase available by August 2026. Stay tuned!
 
 ## Abstract
 
